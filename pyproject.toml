@@ -15,7 +15,8 @@ dependencies = [
     "langgraph>=0.0.38",
     "langchain-community>=0.0.34",
     "typing-extensions>=4.0.0",
-    "ipykernel>=6.0.0"
+    "ipykernel>=6.0.0",
+    "langchain-tavily>=0.2.3",
 ]
 
 [project.optional-dependencies]
